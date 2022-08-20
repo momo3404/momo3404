@@ -6,9 +6,11 @@ Software Developer
 
 I'm a third-year Computer Science student at the University of Alberta with a focus on backend software development. I've been coding for 4 years, and am looking for entry level internships in the software industry.
 
+* My pronouns are he/him
 * 🌍  I'm based in Edmonton
 * ✉️  You can contact me at [albachac@ualberta.ca](mailto:albachac@ualberta.ca)
 * 🤝  I'm open to collaborating on any interesting projects!
+
 
 ### Skills
 
