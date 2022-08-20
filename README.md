@@ -2,27 +2,6 @@ ProfileMe.dev
 New feature:
 Changelog added
 
-
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2022 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-Previous section
-
-buymeacoffee
-BUY ME A COFFEE:
-yourname
 Previous section
 PREVIEW
 MARKDOWN
