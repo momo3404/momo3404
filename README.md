@@ -27,4 +27,4 @@ I'm a third-year Computer Science student at the University of Alberta with a fo
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/momo#9039" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/momo3404" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhanned-al-bachachi-121305214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+
