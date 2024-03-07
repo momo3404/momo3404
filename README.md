@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Software Developer
 ------------------
 
-I'm a third-year Computer Science student at the University of Alberta with a focus on backend software development. I've been coding for 4 years, and am currently looking for entry level internships in the software industry.
+I'm a fourth-year Computer Science student at the University of Alberta with a focus on backend software development. I've been coding for 4 years, and am currently looking for entry level internships in the software industry.
 
 * 🌍  I'm based in Edmonton, Alberta
 * ✉️  You can contact me at [albachac@ualberta.ca](mailto:albachac@ualberta.ca)
