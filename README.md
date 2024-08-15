@@ -1,12 +1,9 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhanned Al-Bachachi
 ============================================================================================================================================
 
-Software Developer
-------------------
+I'm a fourth-year Computer Science Co-op student at the University of Alberta. In my previous software development internships, I worked in Agile development teams where I helped develop, design, and ship products to consumers.
+In my time as a student, I've also worked on personal and group projects involving web apps, Cloud storage and management, database management, mobile app development and more. I'm currently looking for entry level positions in development roles.
 
-I'm a fourth-year Computer Science student at the University of Alberta with a focus on backend software development. I've been coding for 4 years, and am currently looking for entry level internships in the software industry.
-
-* 🌍  I'm based in Edmonton, Alberta
 * ✉️  You can contact me at [albachac@ualberta.ca](mailto:albachac@ualberta.ca)
 * 🤝  I'm open to collaborating on any interesting projects!
 
