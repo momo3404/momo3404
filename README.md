@@ -11,6 +11,8 @@ In my time as a student, I've also worked on personal and group projects involvi
 ### Skills
 
 <p align="left">
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/ruby-colored.svg" width="36" height="50" alt="C" /></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://merch.rubyonrails.org/cdn/shop/files/500px-Ruby_On_Rails_Logo.png?v=1723450230" width="50" height="50" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
