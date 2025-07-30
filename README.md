@@ -2,7 +2,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ============================================================================================================================================
 
 I'm a Library System Analyst and Developer at the University of Alberta. In this role, I work primarily with Ruby on Rails to help develop the open source platform [DMP Assistant](https://dmp-pgd.ca/). In previous software development internships, I worked in Agile development teams where I helped develop, design, and ship products to consumers.
-In my time as a student, I've also worked on personal and group projects involving web apps, Cloud storage and management, database management, mobile app development and more. I'm currently looking for entry level positions in development roles.
+In my time as a student, I've also worked on personal and group projects involving web apps, Cloud storage and management, database management, mobile app development and more.
 
 * ✉️  You can contact me at [albachac@ualberta.ca](mailto:albachac@ualberta.ca)
 * 🤝  I'm open to collaborating on any interesting projects!
